@@ -20,7 +20,7 @@ Java Backend Developer focused on building scalable, secure, and efficient serve
 ## 👨‍💻 LeetCode Stats
 [![LeetCode Stats](https://leetcard.jacoblin.cool/opleshkov?theme=dark&font=JetBrains%20Mono)](https://leetcode.com/opleshkov/)
 
-## 📫 My contacts
+## 📫 Follow me
 
 [![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/id783705099)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/veerryy)
