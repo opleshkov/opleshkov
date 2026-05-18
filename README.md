@@ -9,7 +9,7 @@ Java Backend Developer focused on building scalable, secure, and efficient serve
 - 🧠 Working across database design, API development, and system architecture
 - 🤝 Open to collaborating on interesting backend projects and learning together
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages and Tools:</h3>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -17,6 +17,7 @@ Java Backend Developer focused on building scalable, secure, and efficient serve
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## 👨‍💻 LeetCode Stats
 [![LeetCode Stats](https://leetcard.jacoblin.cool/opleshkov?theme=dark&font=JetBrains%20Mono)](https://leetcode.com/opleshkov/)
 
 ## 📫 My contacts
