@@ -1,4 +1,4 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=opleshkov)
+![Github](https://raw.githubusercontent.com/opleshkov/opleshkov/master/user%20(2).gif)
 
 <!--
 **opleshkov/opleshkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
